@@ -3,7 +3,7 @@ Simple project to make a real time graph display using Chart.js and Django.
 
 This project has moved to dynamically update the contents when the user refreshes the page.   
    
-### AJAX work is still in progress
+### AJAX can be applied in the graph.
 
 To make it work in your system, change the template path in **dynamic_bar_graph/dynamic_bar_graph/settings.py**
 
