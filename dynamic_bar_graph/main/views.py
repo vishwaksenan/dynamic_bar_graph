@@ -7,7 +7,7 @@ import random
 # Create your views here.
 def bar(request):
 	
-	labels = ['Black', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange']
+	labels = ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange']
 	dataset = random.sample(range(1,30),6)
 	labelss = json.dumps(labels)
 	
