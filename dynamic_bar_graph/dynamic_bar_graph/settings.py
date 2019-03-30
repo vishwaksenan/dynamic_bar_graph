@@ -54,7 +54,7 @@ ROOT_URLCONF = 'dynamic_bar_graph.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\vishw\Desktop\dynamic_bar_graph\dynamic_bar_graph\templates'],
+        'DIRS': [r'C:\Users\vishw\Desktop\Git-Hub Repositories\dynamic_bar_graph\dynamic_bar_graph\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
